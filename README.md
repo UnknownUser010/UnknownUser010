@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/ctt-600px-github.png" /></p>
 
-<a href="https://www.twitch.tv/christitustech" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<a href="https://www.twitch.tv/illojuan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/illojuan?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Socials
 
@@ -9,7 +9,7 @@ src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for
 
 ### GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/UnknownUser010/UnknownUser010/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
 
